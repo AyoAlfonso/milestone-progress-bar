@@ -1,0 +1,31 @@
+{
+  "name": "milestone-progress-bar",
+  "version": "1.0.0",
+  "description": "A reusable milestone progress bar with color-coded gradient in React.",
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": ["react", "progress-bar", "milestone", "gradient", "typescript"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.x",
+    "@types/react-dom": "^18.x",
+    "@testing-library/jest-dom": "^5.x",
+    "@testing-library/react": "^13.x",
+    "@testing-library/user-event": "^14.x",
+    "jest": "^29.x",
+    "react": "^18.x",
+    "react-dom": "^18.x",
+    "typescript": "^4.x"
+  },
+  "peerDependencies": {
+    "react": "^18.x",
+    "react-dom": "^18.x",
+    "styled-components": "^5.x"
+  }
+}
