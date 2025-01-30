@@ -1,4 +1,4 @@
-# Milestone Progress Beads
+# Milestone Progress Bar
 
 ---
 
