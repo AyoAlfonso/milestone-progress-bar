@@ -1,6 +1,4 @@
-# milestone-progress-candle
-# Milestone Progress Bar
-Below is an example of a **fancy README.md** with **badge “pills”** at the top. You can adapt this to your own package name, description, repository URLs, license type, etc.
+# Milestone Progress Beads
 
 ---
 
