@@ -2,7 +2,7 @@
 
 ---
 
-```md
+
 # Milestone Progress Bar
 
 [![npm version][npm-image]][npm-url]
@@ -132,7 +132,6 @@ Feel free to use, modify, and distribute this package as per the license terms.
 
 [license-image]: https://img.shields.io/badge/License-MIT-green.svg?style=flat-square
 [license-url]: https://github.com/yourusername/my-milestone-progress-bar/blob/master/LICENSE
-```
 
 ---
 
