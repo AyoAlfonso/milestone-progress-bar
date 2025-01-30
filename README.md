@@ -2,7 +2,6 @@
 
 ---
 
-
 # Milestone Progress Bar
 
 [![npm version][npm-image]][npm-url]
@@ -44,7 +43,7 @@ Here’s a quick example of how to import and use the **MilestoneProgressBar** i
 
 ```tsx
 import React from 'react';
-import { MilestoneProgressBar } from 'my-milestone-progress-bar';
+import { MilestoneProgressBar } from 'milestone-progress-bar';
 
 const ExampleComponent = () => {
   const statuses = [
@@ -132,13 +131,3 @@ Feel free to use, modify, and distribute this package as per the license terms.
 
 [license-image]: https://img.shields.io/badge/License-MIT-green.svg?style=flat-square
 [license-url]: https://github.com/yourusername/my-milestone-progress-bar/blob/master/LICENSE
-
----
-
-### **How to Customize Badges**
-
-1. **Replace `my-milestone-progress-bar`** with your **actual package name**.
-2. **Update** the GitHub username (`yourusername`) and repository name so the build and coverage badges point to your repo.
-3. If you use a different license, change the **license** badge/link accordingly (e.g., `Apache-2.0`, `GPL-3.0`, etc.).
-
-With this **fancy** README, you’ll have a **professional** and **inviting** landing page for your npm package.
