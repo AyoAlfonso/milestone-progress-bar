@@ -27,13 +27,13 @@ A **React** component for visualizing milestone or status-based progress as a **
 ## 🚀 Installation
 
 ```bash
-npm install my-milestone-progress-bar
+npm install milestone-progress-bar
 ```
 
 Or with yarn:
 
 ```bash
-yarn add my-milestone-progress-bar
+yarn add milestone-progress-bar
 ```
 
 ---
