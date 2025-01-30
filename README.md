@@ -23,4 +23,4 @@ A **React** component for visualizing milestone or status-based progress as a **
 ## 🚀 Installation
 
 ```bash
-npm install my-milestone-progress-bar
+npm install milestone-progress-bar
